@@ -1,0 +1,562 @@
+# Webalizer V2.01-10 Incremental Data - 09/24/2014 16:58:32
+2014 9 24 16 58 32
+534 188 94 7 39 34 627935 228 104 0 0 0
+2 1 326 1 24
+13 13 33624 5 9 5 0 0
+15 10 27061 9 13 9 0 0
+4 3 5833 2 2 2 0 0
+9 9 24198 5 5 5 0 0
+4 4 11602 2 2 2 0 0
+5 5 8929 3 3 3 0 0
+4 4 6845 2 2 2 0 0
+3 3 2038 2 2 2 0 0
+13 12 12075 8 7 7 0 0
+3 3 4072 3 3 3 0 0
+11 10 11450 6 8 5 0 0
+6 6 15770 4 4 4 0 0
+5 5 12596 3 3 3 0 0
+6 6 9380 3 5 2 0 0
+12 11 29037 6 6 6 0 0
+2 0 3612 2 2 2 0 0
+7 7 16764 5 5 5 0 0
+5 4 12411 2 3 2 0 0
+32 26 44183 8 21 11 0 0
+26 22 40872 12 15 12 0 0
+4 2 120 3 3 3 0 0
+14 11 27108 6 7 5 0 0
+4 3 5833 2 2 2 0 0
+327 9 262522 2 96 2 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+4 4 6845 2 0 0
+1 1 994 1 0 0
+30 28 52411 22 0 0
+9 8 22380 6 0 0
+15 11 27484 6 0 0
+10 5 11884 8 0 0
+339 18 279725 103 0 0
+12 11 21557 7 0 0
+8 8 14634 5 0 0
+3 2 7607 2 0 0
+3 3 6795 2 0 0
+1 1 994 1 0 0
+4 4 2088 2 0 0
+6 6 10490 6 0 0
+9 9 11400 7 0 0
+14 10 22677 6 0 0
+5 4 6827 3 0 0
+8 7 14169 6 0 0
+5 5 8911 3 0 0
+3 3 6795 2 0 0
+15 14 39147 10 0 0
+12 11 21014 8 0 0
+13 11 24280 7 0 0
+5 4 6827 3 0 0
+0
+0
+0
+188
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+7
+0
+0
+0
+0
+0
+0
+339
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/
+0 123 0 147586 94 4 0 0
+/robots.txt
+0 23 0 1006 0 0 0 0
+////
+0 2 0 0 1 0 0 0
+/phpmyadmin/docs.css
+0 1 0 1134 0 0 0 0
+/communicationsolutions.gif
+1 42 0 201894 0 0 0 0
+//
+0 3 0 0 1 0 0 0
+/google1ab555e440ffad83.html
+0 1 0 70 1 0 0 0
+# End Of Table - urls
+# -sites- (monthly)
+201.150.49.240
+0 2 2 5801 1 1409864208
+- 0 0
+189.38.203.227
+0 2 2 5801 1 1410923490
+- 0 0
+190.113.213.233
+0 2 2 5801 1 1411026778
+- 0 0
+189.172.226.250
+0 1 0 809 1 1409636180
+- 0 0
+190.42.186.72
+0 1 0 809 1 1409636192
+- 0 0
+201.81.59.15
+0 2 2 5801 1 1409670303
+- 0 0
+188.190.100.50
+0 1 1 994 1 1411577912
+/ 0 0
+193.43.252.252
+0 9 9 18756 2 1411248924
+- 0 0
+181.188.18.55
+0 2 2 5801 1 1410511283
+- 0 0
+151.24.142.124
+0 2 2 5801 1 1410939164
+- 0 0
+91.250.15.69
+0 17 17 35428 4 1411148440
+- 0 0
+110.164.233.203
+0 1 1 994 1 1409636198
+- 0 0
+123.152.101.61
+0 1 0 809 1 1409636181
+- 0 0
+187.64.37.86
+0 2 2 5801 1 1409769523
+- 0 0
+177.134.20.131
+0 2 2 5801 1 1409546193
+- 0 0
+150.70.173.38
+0 1 1 2084 1 1410924110
+- 0 0
+192.170.156.99
+0 11 11 0 4 1411227622
+- 0 0
+150.70.173.53
+0 1 1 2084 1 1410923627
+- 0 0
+201.13.76.237
+0 2 2 5801 1 1409630008
+- 0 0
+166.78.169.147
+0 1 0 1806 1 1410858428
+- 0 0
+182.68.131.101
+0 8 4 14838 2 1411107991
+- 0 0
+54.165.119.13
+0 1 1 2084 1 1410246756
+- 0 0
+187.142.51.248
+0 2 2 5801 1 1409808334
+- 0 0
+187.108.80.166
+0 2 2 5801 1 1410761676
+- 0 0
+2.81.17.23
+0 2 2 5801 1 1411250175
+- 0 0
+198.37.114.68
+0 1 0 809 0 0
+- 0 0
+38.100.21.67
+0 1 1 2084 1 1410330628
+- 0 0
+177.20.226.178
+0 2 2 5801 1 1411158576
+- 0 0
+187.49.193.0
+0 3 2 6610 1 1411012703
+- 0 0
+183.60.243.187
+0 326 8 261528 1 1411541596
+- 0 0
+103.225.59.173
+0 4 2 7419 1 1411227570
+- 0 0
+200.97.37.109
+0 2 2 5801 1 1410575461
+- 0 0
+191.22.229.145
+0 1 1 994 1 1411115403
+- 0 0
+179.114.219.228
+0 2 2 5801 1 1409874548
+- 0 0
+189.198.240.67
+0 2 2 5801 1 1409913566
+- 0 0
+186.206.187.253
+0 2 2 5801 1 1410119837
+- 0 0
+77.29.41.168
+0 2 2 5801 1 1411346259
+- 0 0
+177.12.97.48
+0 2 2 5801 1 1410818867
+- 0 0
+78.236.84.162
+0 2 2 5801 1 1410036524
+- 0 0
+82.107.38.170
+0 2 2 5801 1 1409947886
+- 0 0
+181.1.251.254
+0 2 2 5801 1 1409538314
+- 0 0
+131.108.245.134
+0 2 2 5801 1 1411244433
+- 0 0
+46.239.24.247
+0 2 2 5801 1 1410645844
+- 0 0
+177.99.62.152
+0 2 2 5801 1 1409871357
+- 0 0
+188.80.155.180
+0 2 2 5801 1 1411492476
+- 0 0
+124.120.222.255
+0 1 0 809 1 1409636179
+- 0 0
+177.162.116.237
+0 2 2 5801 1 1409544954
+- 0 0
+189.106.52.32
+0 2 2 5801 1 1410279023
+- 0 0
+66.249.69.175
+0 2 2 1044 1 1411225563
+- 0 0
+66.249.67.47
+0 2 1 994 2 1411337805
+- 0 0
+64.246.165.50
+0 2 2 1026 1 1410286736
+- 0 0
+66.249.67.55
+0 4 3 2038 3 1411337073
+- 0 0
+66.249.67.58
+0 2 2 1044 1 1410419713
+- 0 0
+66.249.69.191
+0 2 2 1988 2 1411208753
+- 0 0
+66.249.67.63
+0 1 1 50 0 0
+- 0 0
+66.249.67.66
+0 1 1 994 1 1410436244
+- 0 0
+79.39.190.215
+0 2 2 5801 1 1409556085
+- 0 0
+189.177.16.231
+0 2 2 5801 1 1410510451
+- 0 0
+66.249.79.50
+0 1 1 50 0 0
+- 0 0
+148.251.71.4
+0 3 3 6252 1 1411396829
+- 0 0
+66.249.79.66
+0 1 1 994 1 1410402462
+- 0 0
+198.199.66.138
+0 1 1 994 1 1410185031
+- 0 0
+177.5.54.170
+0 2 2 5801 1 1410815423
+- 0 0
+66.249.89.9
+0 1 1 70 1 1411306761
+- 0 0
+64.246.165.150
+0 2 2 1026 1 1411396825
+- 0 0
+192.99.39.77
+0 2 2 1044 1 1409962954
+- 0 0
+192.99.39.78
+0 2 2 1044 1 1410266504
+- 0 0
+192.99.39.79
+0 2 2 1044 1 1410186733
+- 0 0
+182.68.112.64
+0 4 2 7419 1 1411187447
+- 0 0
+192.99.39.81
+0 2 2 1044 1 1410063266
+- 0 0
+192.99.39.82
+0 2 2 1044 1 1410267431
+- 0 0
+104.131.210.131
+0 1 1 2084 1 1410504586
+- 0 0
+198.199.64.115
+0 1 1 994 1 1410944316
+- 0 0
+54.176.196.174
+0 1 1 2084 1 1410014736
+- 0 0
+198.211.104.25
+0 1 1 994 1 1410573867
+- 0 0
+192.81.219.93
+0 1 1 994 1 1409793691
+- 0 0
+189.74.44.167
+0 1 1 994 1 1411154754
+- 0 0
+5.9.188.247
+0 1 1 994 1 1411255189
+- 0 0
+91.105.177.76
+0 2 2 5801 1 1410773297
+- 0 0
+82.145.46.102
+0 2 2 1044 1 1411225484
+- 0 0
+66.249.64.18
+0 1 1 994 1 1410684240
+- 0 0
+212.68.63.75
+0 1 0 1806 1 1410897985
+- 0 0
+66.249.64.26
+0 1 1 50 0 0
+- 0 0
+23.20.166.230
+0 1 1 2084 1 1410545247
+- 0 0
+45.64.11.130
+0 4 2 7419 1 1411398974
+- 0 0
+187.67.45.121
+0 2 2 5801 1 1411352668
+- 0 0
+157.55.39.74
+0 2 1 32 1 1410765052
+- 0 0
+171.101.50.188
+0 1 0 809 1 1409636179
+- 0 0
+177.64.136.124
+0 2 2 5801 1 1410749085
+- 0 0
+157.55.39.217
+0 2 1 32 1 1409778009
+- 0 0
+179.213.156.215
+0 2 2 5801 1 1411165864
+- 0 0
+122.161.154.210
+0 4 2 7419 1 1411093954
+- 0 0
+157.55.39.230
+0 3 2 1026 2 1411513515
+- 0 0
+157.55.39.231
+0 5 3 96 2 1410453456
+- 0 0
+# End Of Table - sites (monthly)
+# -sites- (daily)
+188.190.100.50
+0 1 1 994 1 1411577912
+/ 0 0
+183.60.243.187
+0 326 8 261528 1 1411541596
+- 0 0
+# End Of Table - sites (daily)
+# -referrers- 
+http://461.semalt.com/crawler.php
+0 1
+- (Direct Request)
+0 87
+http://urlopener.blogspot.in/
+0 2
+http://simplysoaps.com
+0 1
+http://775.semalt.com/crawler.php
+0 1
+http://533.semalt.com/crawler.php
+0 1
+http://452.semalt.com/crawler.php
+0 1
+http://459.semalt.com/crawler.php
+0 1
+http://communicationsolutions.co.in/drupal
+1 1
+http://922.semalt.com/crawler.php
+0 1
+http://a14download.com
+0 5
+http://communicationsolutions.co.in/joomla
+1 1
+http://communicationsolutions.co.in/wp
+1 1
+http://818.semalt.com/crawler.php
+0 1
+http://u8files.asia
+0 8
+http://201.semalt.com/crawler.php
+0 1
+http://288.semalt.com/crawler.php
+0 1
+http://whois.domaintools.com/communicationsolutions.co.in
+1 2
+http://communicationsolutions.co.in/blog
+1 1
+http://435.semalt.com/crawler.php
+0 1
+http://communicationsolutions.co.in/
+1 38
+https://www.google.com/
+0 1
+http://420.semalt.com/crawler.php
+0 1
+http://133.semalt.com/crawler.php
+0 1
+http://communicationsolutions.co.in
+1 1
+http://youtube-downloader.savetubevideo.com/youtube-downloader.php
+0 2
+http://www.weburlopener.com/
+0 1
+http://ictjobs.ch/
+0 1
+http://www.urlopener.com/home.html
+0 2
+http://911.semalt.com/crawler.php
+0 1
+http://www.baidu.com
+0 325
+http://uni5download.com
+0 9
+http://communicationsolutions.co.in/wordpress
+1 1
+http://semalt.semalt.com/crawler.php
+0 17
+http://onlythegames.com
+0 3
+http://dl2engine.net
+0 4
+http://www.communicationsolutions.co.in/
+1 5
+http://138.semalt.com/crawler.php
+0 1
+http://www.frescoxm.com
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en; rv:1.9.0.13) Gecko/2009073022 Firefox/3.5.2 (.NET CLR 3.5.30729) SurveyBot/2.3 (
+0 4
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0
+0 1
+Mozilla/5.1 (compatible; DL2Bot/1.0; +http://dl2engine.net)
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.66 Safari/535.11
+0 1
+Mozilla/5.1 (compatible; GGot/1.0; +http://u8files.asia)
+0 4
+Mozilla
+0 11
+Mozilla/5.0 (compatible; aiHitBot/2.8; +http://endb-consolidated.aihit.com/)
+0 2
+Mozilla/5.0 (compatible; Google-Site-Verification/1.0)
+0 1
+Mozilla/5.0 (Windows NT 6.1; rv:28.0) Gecko/20100101 Firefox/28.0
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.2)
+0 1
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:31.0) Gecko/20100101 Firefox/31.0
+0 1
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; fr; rv:1.9.2.8) Gecko/20100722 Firefox/3.6.8
+0 2
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+0 1
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)
+0 2
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 19
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+0 2
+Mozilla/5.1 (compatible; ADBot/9.0; +http://onlythegames.com)
+0 3
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:18.0) Gecko/20100101 Firefox/18.0
+0 325
+Mozilla/5.0 (Windows NT 6.1; rv:32.0) Gecko/20100101 Firefox/32.0
+0 24
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0
+0 1
+'User-Agent': 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552
+0 1
+Mozilla/5.1 (compatible; DBot/7.5.6; +http://a14download.com)
+0 5
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+0 20
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 12
+Mozilla/5.1 (compatible; U5/1.0; +http://uni5download.com)
+0 4
+Mozilla/5.0 (compatible; meanpathbot/1.0; +http://www.meanpath.com/meanpathbot.html)
+0 10
+Mozilla/5.0 (Windows NT 5.2) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/14.0.794.0 Safari/535.1
+0 1
+Mozilla/5.1 (compatible; DBot/7.0; +http://getdownload.ws)
+0 9
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+0 6
+Mozilla/5.0 (Windows; U; MSIE 9.0; Windows NT 9.0; en-US)
+0 1
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 GTB6 (.NET CLR 3.5.30729)
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36
+0 29
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+0 24
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
